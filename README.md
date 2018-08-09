@@ -1,2 +1,2 @@
-《JavaScript数据结构与算法》练习与回顾
-《剑指offer》习题练习
+《JavaScript数据结构与算法》
+《剑指offer》

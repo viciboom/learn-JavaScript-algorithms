@@ -1,4 +1,4 @@
-//加法
+//加法 两个极大数相加，可以将其转化为 string 再进行分割，逐位相加
 function add(a, b) {
     //把a,b放进total数组
     var total = [String(a), String(b)];
