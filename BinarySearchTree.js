@@ -1,3 +1,4 @@
+// 二叉搜索树的实现
 function BinarySearchTree () {
     // 结构
     var Node = function (key) {
