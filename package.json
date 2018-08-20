@@ -1,0 +1,27 @@
+{
+  "name": "learn-javascript-algorithms",
+  "version": "1.0.0",
+  "description": "some test work",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viciboom/learn-JavaScript-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viciboom/learn-JavaScript-algorithms/issues"
+  },
+  "homepage": "https://github.com/viciboom/learn-JavaScript-algorithms#readme",
+  "devDependencies": {
+    "arr-diff": "^4.0.0",
+    "array-first": "^1.0.2",
+    "array-range": "^1.0.1",
+    "dedupe": "^2.1.0",
+    "filled-array": "^1.1.0",
+    "is-sorted": "^1.0.5"
+  }
+}
