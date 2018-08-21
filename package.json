@@ -22,6 +22,8 @@
     "array-range": "^1.0.1",
     "dedupe": "^2.1.0",
     "filled-array": "^1.1.0",
-    "is-sorted": "^1.0.5"
+    "is-sorted": "^1.0.5",
+    "jwt-simple": "^0.5.1",
+    "uuid": "^3.3.2"
   }
 }
