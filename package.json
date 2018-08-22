@@ -20,6 +20,7 @@
     "arr-diff": "^4.0.0",
     "array-first": "^1.0.2",
     "array-range": "^1.0.1",
+    "bluebird": "^3.5.1",
     "dedupe": "^2.1.0",
     "filled-array": "^1.1.0",
     "is-sorted": "^1.0.5",
